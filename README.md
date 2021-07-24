@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miah-mihrab
+- 👋 Hi, I’m Mihrab Miah
 - 👀 I’m interested in WEB, ML, AI
 - ✨ I’m quite good in NodeJS & MongoDB
 - 🌱 I’m currently learning python
